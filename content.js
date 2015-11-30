@@ -46,5 +46,4 @@ exports.addModule('node_modules/memdown/node_modules/ltgt/index.js', 'ltgt');
 
 exports.addModule('lib/index');
 exports.addModule('lib/map');
-exports.addModule('lib/field');
 
