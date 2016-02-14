@@ -11,7 +11,7 @@ exports = O.init();
  */
 
 /**
- * @caption Framework content
+ * @caption LevelDB content
  *
  * @readme
  * Provides files of [ose] package to the browser.
